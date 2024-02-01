@@ -1,4 +1,4 @@
-# Alibaba Lamp
+# Alí Babá Lamp
 
 <div align="center">
 <img alt="Lampara naranja" src= https://github.com/BipperTT/alibaba_lamp/assets/153605976/a0dac6a7-6b39-4e75-ba08-b236a223eb78>
