@@ -17,7 +17,7 @@
 
 ## Descripción de la aplicación
 
-A continuación se puede apreciar una aplicación programada con el pseudocódigo Kotlin, que a partir de la clase Lampara, permite personalizar tus lamparas.
+A continuación se puede apreciar una aplicación programada con el pseudocódigo Kotlin, que a partir de la clase Lampara, permite personalizar tus lámparas.
 
 > [!CAUTION]
 > Para ejecutar este programa se recomienda **Amazon Corretto 17 SDK**.
